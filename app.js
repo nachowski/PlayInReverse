@@ -1,6 +1,6 @@
 (function(exports) {
 	client_id = '17f243b944f14386af940a735d5c70c7';
-	redirect_uri = 'https://nachiketapte.com/spotify-reverse/';
+	redirect_uri = 'https://nachiketapte.com/spotify-reverse';
 	
 	g_access_token = '';
 	g_username = '';
