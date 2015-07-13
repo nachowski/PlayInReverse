@@ -115,6 +115,9 @@ function getPlaylists(username, callback) {
 			'Authorization': 'Bearer ' + g_access_token,
 			'Accept': 'application/json'
 		},
+		data:{
+			'limit' : 50
+		},
 		success: function(r) {
 			callback(r);
 		},
