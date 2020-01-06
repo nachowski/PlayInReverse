@@ -1,3 +1,5 @@
+Deprecated! Use https://github.com/FitzgeraldKrudde/spotify-reverse-playlist instead.
+
 PlayInReverse
 =============
 
